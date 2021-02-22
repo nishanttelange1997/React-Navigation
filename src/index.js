@@ -7,6 +7,7 @@ import {BrowserRouter,Switch,Route, Link} from "react-router-dom";
 import Login from "./Screen/Login";
 import NotFound from "./Screen/NotFound";
 import Registration from "./Screen/Registration";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 const routing = (
